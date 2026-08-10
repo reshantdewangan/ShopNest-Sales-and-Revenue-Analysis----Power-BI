@@ -303,7 +303,6 @@ ShopNest Sales and Revenue Analytics (Power BI)/
 │   ├── Nexusgood_geolocation_dataset.csv
 │   └── product_category_name_translation.csv
 │
-├── promptforreadme.txt                # Specification Prompt
 └── README.md                          # Project Documentation
 ```
 
